@@ -1,0 +1,8 @@
+numpy
+torch
+gymnasium[box2d]
+tqdm
+tensorboard
+tensorboardX
+imageio
+Pillow
